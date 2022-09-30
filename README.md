@@ -10,10 +10,11 @@
 
 <!--   <a href="https://devpost.com/cjpp0012?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
   <img src="https://i.imgur.com/f728zFN.png" width = "300">
-  </a> -->
+  </a> 
   <br />
-  
-  <img src="https://i.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.webp" width="480" height="480"> </p>
+-->
+  <img src="https://i.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.webp" width="480">
+</p>
 
 
 <!--
