@@ -1,6 +1,5 @@
 <h1 align = "center"> Hey there! </h1>
-<h2 align> I am newish to this field and would love to bounce ideas </h2>
-<h1 align = "center"> Hey there! </h1>
+<h2 align = "center"> I am newish to this field and would love to bounce ideas </h2>
 
 <p align="center">
 
