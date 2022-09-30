@@ -13,7 +13,7 @@
   </a> -->
   <br />
   
-  <img src="https://giphy.com/embed/ZgTR3UQ9XAWDvqy9jv" width="480" height="480"> </p>
+  <img src="https://i.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.webp" width="480" height="480"> </p>
 
 
 <!--
