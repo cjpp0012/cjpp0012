@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi there </h1>
+<h1 align = "center"> Hey there! I am newish to this field and would love to bounce ideas</h1>
 
 <p align="center">
 
