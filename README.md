@@ -2,7 +2,7 @@
 <img src="https://i.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.webp" width="480">
 
 ## About Me
--&nbsp; I'm a Learner and Developer!</br>
+-&nbsp; I'm a Learner and Developer passionate about creating unique software solutions!</br>
 -&nbsp; Always learning more about current and new web development technologies.
 
 ## <h3>🛠 Languages and Tools</h3>
